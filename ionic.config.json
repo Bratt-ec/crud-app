@@ -1,0 +1,8 @@
+{
+  "name": "crud-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "6bc708f5"
+}
